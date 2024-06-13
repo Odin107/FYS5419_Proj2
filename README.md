@@ -29,10 +29,10 @@ The results of each task are saved in the figures directory.
 Dependencies
 This project requires the following libraries:
 
-Qiskit version: 1.0.2
-Qiskit_aer version: 0.13.3
-NumPy version: 1.26.4
-Scipy 1.12.0
+ - Qiskit version: 1.0.2
+ - Qiskit_aer version: 0.13.3
+ - NumPy version: 1.26.4
+ - Scipy 1.12.0
 
 
 
