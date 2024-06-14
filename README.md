@@ -18,7 +18,7 @@ Each task implements a different aspect of QFT, QPE.
 
 ## Running the tasks
 
-To run a task, navigate to the `QFT_proj` directory and run the Python file for the task. For example, to run `task_a.py`, use the following command:
+To run a task, navigate to your directory where you have the files and run the Python file for the task. For example, to run `task_a.py`, use the following command:
 
 ```sh
 python task_a.py
